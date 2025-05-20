@@ -1,0 +1,6 @@
+<launch>
+    <node name="point_cloud_to_distance" pkg="your_package_name" type="point_cloud_to_distance" output="screen">
+        <param name="point_cloud_topic" value="/your_point_cloud_topic"/>
+    </node>
+</launch>
+

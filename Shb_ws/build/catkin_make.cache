@@ -1,0 +1,2 @@
+motion_control:my_robot_control:point_to_distance:robot_motion
+-DCATKIN_DEVEL_PREFIX=/home/user/Shb_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/Shb_ws/install -G Unix Makefiles

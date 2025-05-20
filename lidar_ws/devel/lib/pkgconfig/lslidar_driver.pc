@@ -1,0 +1,8 @@
+prefix=/home/user/lidar_ws/devel
+
+Name: lslidar_driver
+Description: Description of lslidar_driver
+Version: 1.0.0
+Cflags: -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/aarch64-linux-gnu/libboost_thread.so.1.71.0
+Requires: angles pcl_ros roscpp sensor_msgs tf dynamic_reconfigure lslidar_msgs nodelet message_runtime std_msgs roscpp sensor_msgs pluginlib nodelet pcl_ros pcl_conversions lslidar_msgs

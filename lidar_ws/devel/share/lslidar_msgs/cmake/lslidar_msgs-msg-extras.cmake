@@ -1,0 +1,2 @@
+set(lslidar_msgs_MESSAGE_FILES "/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarPacket.msg;/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarPoint.msg;/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarScan.msg;/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarC16Sweep.msg;/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarC32Sweep.msg;/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/msg/LslidarScanUnified.msg")
+set(lslidar_msgs_SERVICE_FILES "/home/user/lidar_ws/src/lslidar_ros/lslidar_msgs/srv/lslidar_control.srv")
