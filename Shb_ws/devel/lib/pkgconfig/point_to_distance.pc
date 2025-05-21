@@ -1,8 +1,0 @@
-prefix=/home/user/Shb_ws/devel
-
-Name: point_to_distance
-Description: Description of point_to_distance
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

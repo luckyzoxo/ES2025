@@ -1,0 +1,5 @@
+<launch>
+  <node name="aeb_controller" pkg="aeb_controller" type="aeb_controller.py" output="screen"/>
+  <include file="$(find lslidar_driver)/launch/lslidar_c16.launch" />
+  <include file="$(find turn_on_wheeltec_robot)/launch/turn_on_wheeltec_robot.launch" />
+</launch>

@@ -1,2 +1,0 @@
-lslidar_ros/lslidar_driver:lslidar_ros/lslidar_msgs:openslam_gmapping:pointcloud_to_laserscan:rs_to_velodyne-master:rslidar_sdk:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:slam_karto/open_karto-melodic-devel:slam_karto/slam_karto-melodic-devel:slam_karto/sparse_bundle_adjustment-melodic-devel
--DCATKIN_DEVEL_PREFIX=/home/user/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/lidar_ws/install -G Unix Makefiles
